@@ -1,0 +1,17 @@
+fun main(args: Array<String>) {
+        println("1")
+        println("2")
+        println("Fizz")
+        println("4")
+        println("Buzz")
+        println("Fizz")
+        println("7")
+        println("8")
+        println("Fizz")
+        println("Buzz")
+        println("11")
+        println("Fizz")
+        println("13")
+        println("14")
+        println("FizzBuzz")
+}

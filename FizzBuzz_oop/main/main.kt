@@ -13,5 +13,7 @@ fun main() {
         arrayOf(fizzrule,buzzrule,passthroughrule)
     )
 
-    println(fizzbuzz.convert(15));
+    for(result in fizzbuzz.convert(15)){
+        println(result)
+    }
 }
